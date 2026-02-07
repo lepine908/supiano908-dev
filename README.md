@@ -8,3 +8,12 @@ Accédez-y via ce lien : https://lepine908.github.io/supiano.html Recherche par 
 Voici un projet pour faire de la musique numériquement ! Supiano908p.sb3 contient le fichier d'application Scratch (.sb3). Vous pouvez l'ouvrir avec TurboWarp en ligne et tester notre projet(ATTENTION:ne contient pas les éléments cloud pour des raisons de sécurité(projet open source)) ! Supiano908.html est un fichier HTML compilé par TurboWarp qui contient le fichier .sb3 pour une ouverture facile dans un navigateur. Contactez les développeurs sur https://lepine908.github.io. Amusez-vous bien !
 
 FREE 908!                                                                                                                                            lepine908
+
+
+
+Supiano908 is a French TurboWarp project licensed under the MIT License. Press the green flag to restart and "start" to begin. You will discover the fascinating world of music, unveiled and launched for the first time at Collège Saint-Exupéry this spring 2026, accessible online. A French version is currently under development. Created by lepine908 of 908 Studios. Coded with the TurboWarp engine in the Zorin environment (Windows and Linux). Developed as part of a small project to test online games.
+Access it via this link: https://lepine908.github.io/supiano.html Research by Adrocode, music development by Adrocode. Presented by lepine908 for 908 studios. Some sounds are from Universal Soundbank International. @lepine908
+
+Here's a project for making music digitally! Supiano908p.sb3 contains the Scratch application file (.sb3). You can open it with TurboWarp online and test our project (WARNING: does not contain cloud elements for security reasons (open source project))! Supiano908.html is an HTML file compiled by TurboWarp that contains the .sb3 file for easy opening in a browser. Contact the developers at https://lepine908.github.io. Have fun!
+
+FREE 908! lepine908
